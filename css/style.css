@@ -432,4 +432,7 @@ header {
   padding-bottom: 20px;
   padding-left: 24px;
   padding-right: 24px;
+  border-left: solid 1px #eeeeee;
+  border-right: solid 1px #eeeeee;
+  border-bottom: solid 1px #eeeeee;
 }
