@@ -281,7 +281,7 @@ header {
 .basement {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: var(--footer);
+  background-color: #2f303a;
 }
 .brandmark {
   display: block;
@@ -409,8 +409,6 @@ header {
   text-decoration: none;
 }
 .models .models-heading {
-  margin-top: 20px;
-
   color: var(--primaryy-text-color);
   font-weight: 700;
   font-size: 18px;
